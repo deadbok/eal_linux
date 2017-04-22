@@ -1,4 +1,4 @@
-# Linux coursee at EAL 2017 #
+# Linux course at EAL 2017 #
 ## LIN 1 The file system. Creating directories and understand permissions. ##
 
 *Note that for this assignment Python must be or has to be installed.*
